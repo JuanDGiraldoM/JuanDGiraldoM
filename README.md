@@ -8,11 +8,27 @@
 
 <!-- My GitHub stats -->
 <a href="https://github.com/JuanDGiraldoM/JuanDGiraldoM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juandgiraldom&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandgiraldom&layout=compact&theme=highcontrast" height="165" />
 </a>
 <a href="https://github.com/JuanDGiraldoM/JuanDGiraldoM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandgiraldom&layout=compact&theme=chartreuse-dark" height="165" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juandgiraldom&show_icons=true&theme=highcontrast&include_all_commits=true" alt="GitHub Stats" height="165" />
 </a>
+
+<hr>
+
+## &#x270d; Focusing On
+
+<br>
+
+<!-- My GitHub repositories -->
+<a href="https://github.com/JuanDGiraldoM/scaffold-clean-architecture">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juandgiraldom&repo=scaffold-clean-architecture&show_icons=true&theme=highcontrast"  />
+</a>
+
+<a href="https://github.com/JuanDGiraldoM/secrets-manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juandgiraldom&repo=secrets-manager&show_icons=true&theme=highcontrast" />
+</a>
+
 
 <!--
 **JuanDGiraldoM/JuanDGiraldoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
