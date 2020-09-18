@@ -2,13 +2,17 @@
 
 <hr>
 
-<strong>Statistics</strong>
+## &#x1f4c8; GitHub Stats
+
 <br>
 
-<!-- My GitHub stats with buefy theme ❤️ -->
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=juandgiraldom&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandgiraldom&layout=compact&theme=buefy" alt="languages" height="165">
-</p>
+<!-- My GitHub stats -->
+<a href="https://github.com/JuanDGiraldoM/JuanDGiraldoM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juandgiraldom&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="GitHub Stats" height="200" />
+</a>
+<a href="https://github.com/JuanDGiraldoM/JuanDGiraldoM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandgiraldom&layout=compact&theme=chartreuse-dark" height="200" />
+</a>
 
 <!--
 **JuanDGiraldoM/JuanDGiraldoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
