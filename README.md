@@ -8,10 +8,10 @@
 
 <!-- My GitHub stats -->
 <a href="https://github.com/JuanDGiraldoM/JuanDGiraldoM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juandgiraldom&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="GitHub Stats" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juandgiraldom&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="GitHub Stats" height="165" />
 </a>
 <a href="https://github.com/JuanDGiraldoM/JuanDGiraldoM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandgiraldom&layout=compact&theme=chartreuse-dark" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandgiraldom&layout=compact&theme=chartreuse-dark" height="165" />
 </a>
 
 <!--
