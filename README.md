@@ -1,4 +1,14 @@
-### Hi there 👋
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
+<hr>
+
+<strong>Statistics</strong>
+<br>
+
+<!-- My GitHub stats with buefy theme ❤️ -->
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=juandgiraldom&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandgiraldom&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
 
 <!--
 **JuanDGiraldoM/JuanDGiraldoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
