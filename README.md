@@ -22,11 +22,11 @@
 
 <!-- My GitHub repositories -->
 <a href="https://github.com/JuanDGiraldoM/scaffold-clean-architecture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juandgiraldom&repo=scaffold-clean-architecture&show_icons=true&theme=highcontrast"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bancolombia&repo=scaffold-clean-architecture&show_icons=true&theme=highcontrast"  />
 </a>
 
 <a href="https://github.com/JuanDGiraldoM/secrets-manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juandgiraldom&repo=secrets-manager&show_icons=true&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bancolombia&repo=secrets-manager&show_icons=true&theme=highcontrast" />
 </a>
 
 
