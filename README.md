@@ -1,37 +1,38 @@
 <div align="center">
-<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+  <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<hr>
+  <hr>
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
+  <br>
 
-<!-- My GitHub stats -->
-<a href="https://github.com/JuanDGiraldoM/JuanDGiraldoM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandgiraldom&layout=compact&theme=highcontrast" height="165" />
-</a>
-<a href="https://github.com/JuanDGiraldoM/JuanDGiraldoM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juandgiraldom&show_icons=true&theme=highcontrast&include_all_commits=true" alt="GitHub Stats" height="165" />
-</a>
+  <!-- My GitHub stats -->
+  <a href="https://github.com/JuanDGiraldoM/JuanDGiraldoM">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandgiraldom&layout=compact&theme=highcontrast" height="165" />
+  </a>
+  <a href="https://github.com/JuanDGiraldoM/JuanDGiraldoM">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=juandgiraldom&show_icons=true&theme=highcontrast&include_all_commits=true" alt="GitHub Stats" height="165" />
+  </a>
 
-<hr>
+  <hr>
 
 ## 💪 Focusing On...
 
-<br>
+  <br>
 
-<!-- My GitHub repositories -->
-<a href="https://github.com/JuanDGiraldoM/scaffold-clean-architecture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bancolombia&repo=scaffold-clean-architecture&show_icons=true&theme=highcontrast"  />
-</a>
+  <!-- My GitHub repositories -->
+  <a href="https://github.com/JuanDGiraldoM/scaffold-clean-architecture">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bancolombia&repo=scaffold-clean-architecture&show_icons=true&theme=highcontrast"  />
+  </a>
 
-<a href="https://github.com/JuanDGiraldoM/secrets-manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bancolombia&repo=secrets-manager&show_icons=true&theme=highcontrast" />
-</a>
+  <a href="https://github.com/JuanDGiraldoM/secrets-manager">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bancolombia&repo=secrets-manager&show_icons=true&theme=highcontrast" />
+  </a>
 
+</div>
 
 <!--
 **JuanDGiraldoM/JuanDGiraldoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
