@@ -16,7 +16,7 @@
 
 <hr>
 
-## &#x270d; Focusing On
+## 💪 Focusing On...
 
 <br>
 
