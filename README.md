@@ -32,6 +32,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bancolombia&repo=secrets-manager&show_icons=true&theme=highcontrast" />
   </a>
 
+  <a href="https://github.com/JuanDGiraldoM/distributed-performance-analyzer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bancolombia&repo=distributed-performance-analyzer&show_icons=true&theme=highcontrast" />
+  </a>
+
+
 </div>
 
 <!--
