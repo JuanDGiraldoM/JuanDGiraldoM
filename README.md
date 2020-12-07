@@ -11,7 +11,7 @@
 
   <!-- My GitHub stats -->
   <a href="https://github.com/JuanDGiraldoM/JuanDGiraldoM">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandgiraldom&layout=compact&theme=highcontrast" height="165" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandgiraldom&langs_count=8&layout=compact&theme=highcontrast" height="165" />
   </a>
   <a href="https://github.com/JuanDGiraldoM/JuanDGiraldoM">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=juandgiraldom&show_icons=true&theme=highcontrast&include_all_commits=true" alt="GitHub Stats" height="165" />
