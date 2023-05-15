@@ -24,19 +24,17 @@
   <br>
 
   <!-- My GitHub repositories -->
-  <a href="https://github.com/JuanDGiraldoM/scaffold-clean-architecture">
+  <a href="https://github.com/bancolombia/distributed-performance-analyzer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bancolombia&repo=distributed-performance-analyzer&show_icons=true&theme=highcontrast" />
+  </a>
+  
+  <a href="https://github.com/bancolombia/scaffold-clean-architecture">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bancolombia&repo=scaffold-clean-architecture&show_icons=true&theme=highcontrast"  />
   </a>
 
-  <a href="https://github.com/JuanDGiraldoM/secrets-manager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bancolombia&repo=secrets-manager&show_icons=true&theme=highcontrast" />
+  <a href="https://github.com/bancolombia/latency-simulator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bancolombia&repo=latency-simulator&show_icons=true&theme=highcontrast" />
   </a>
-
-  <a href="https://github.com/JuanDGiraldoM/distributed-performance-analyzer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bancolombia&repo=distributed-performance-analyzer&show_icons=true&theme=highcontrast" />
-  </a>
-
-
 </div>
 
 <!--
